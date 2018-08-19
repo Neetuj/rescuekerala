@@ -181,7 +181,7 @@ Note: If you have cloned a fork of IEEEKeralaSection/rescuekerala, replace ```or
     ```
 3. Run Migration
     ```
-    python manage.py migrate`
+    python manage.py migrate
     ```
 
 ### Submitting Pull Requests
