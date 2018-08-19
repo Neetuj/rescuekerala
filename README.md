@@ -180,6 +180,9 @@ Note: If you have cloned a fork of IEEEKeralaSection/rescuekerala, replace ```or
     git checkout jaseem1
     ```
 3. Run Migration
+    ```
+    python manage.py migrate`
+    ```
 
 ### Submitting Pull Requests
 
